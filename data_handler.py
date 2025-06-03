@@ -4,7 +4,7 @@ from datetime import datetime
 API_URL = "https://xxxtremelightningrouletteapi.p.rapidapi.com/latest-outcome"
 HEADERS = {
     "x-rapidapi-host": "xxxtremelightningrouletteapi.p.rapidapi.com",
-    "x-rapidapi-key": "SUA_CHAVE_AQUI"
+    "x-rapidapi-key"61871c5fc9mshfc11eedc4edd0eap1d3db2jsn856cbb79b4af"
 }
 
 def fetch_latest_result():
